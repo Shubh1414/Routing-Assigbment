@@ -1,0 +1,27 @@
+
+
+a.active-class{
+    color: rgb(211, 39, 39);
+}
+h1{
+    text-align: center;
+    color: ghostwhite;
+}
+h2  {
+    color: rgb(160, 35, 172);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+p{
+    margin-left: 20px;
+}
+div.card{
+    background-color: rgba(249, 255, 253, 0.979);
+    
+}
+
+.card-header{
+    background-color: rgba(156, 240, 170, 0.904);
+    color: rgba(95, 21, 214, 0.979);
+    text-align: center
+}
